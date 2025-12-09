@@ -72,7 +72,7 @@
 <h1>🍒 ¡Cerezas de Primera! 🍒</h1>
 
 <div class="content">
-    <img src="cerezas.jpeg" alt="Cerezas frescas">
+    <img src="cerezas.jpeg" alt="cerezas frescas">
 </div>
 
 <div class="price-box">
