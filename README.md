@@ -65,19 +65,18 @@
 <body>
 
 <header>
-    <!-- Logo -->
-    <img src="3C9A6FC6-31BD-41D6-8429-7469FD3BDA94.jpeg" alt="Logo Cerezás Branco">
+    <img src="logo.jpeg" alt="Logo Cerezas Branco">
     <h2>Cerezas Branco</h2>
 </header>
 
 <h1>🍒 ¡Cerezas de Primera! 🍒</h1>
 
 <div class="content">
-    <img src="2136D666-BAFF-4324-83A6-F3406305550C.jpeg" alt="Cerezas frescas">
+    <img src="cerezas.jpeg" alt="Cerezas frescas">
 </div>
 
 <div class="price-box">
-    Caja de 5 kg — **$13.000**
+    Caja de 5 kg — $13.000
 </div>
 
 <div class="payment">
@@ -95,3 +94,4 @@
 
 </body>
 </html>
+
